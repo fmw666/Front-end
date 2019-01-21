@@ -2,7 +2,7 @@
   📖导航栏
 </div>  
 <div align="center">
-  <a href="#">HTML</a>  /  <a href="#">CSS</a>  /  <a href="#">Javascript</a>
+  <a href="#">HTML(在更)</a> / <a href="#">CSS(在更)</a> / <a href="#">Javascript(在更)</a>
 </div>
 
 ---

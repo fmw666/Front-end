@@ -1,12 +1,5 @@
 <div>
-  <table align="center">
-  <tr>
-    <th>Ⅰ</th>
-    <th>Ⅱ</th>
-    <th>Ⅲ</th>
-    <th>Ⅳ</th>
-    <th>Ⅴ</th>
-  </tr>
+  <table>
   <tr>
     <th><a href="#">HTML(在更)</a></th>
     <th><a href="#">CSS(在更)</a></th>

@@ -39,7 +39,7 @@
   ```html
   <title>我是标题</title>
   ```
-  <img src="pics/0.png" width="300">
+  <img src="pics/0.png" width="300"><br>
   
   > `<title>` 标签约定放在 `<head>` 标签中
   
@@ -78,3 +78,5 @@
   <a href="https://github.com/fmw666/Front-end">我就是超链接，点我吧~</a>
   ```
   <img src="pics/3.png" width="500">
+  
+  > 链接到的内容在`href`中

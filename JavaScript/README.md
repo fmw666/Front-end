@@ -2,6 +2,7 @@
   <h2>导航栏</h2>
 </div>
 <div align="center">
+  <h2>导航栏</h2>
   <table align="center">
   <tr>
     <th><a href="#">HTML(在更)</a></th>

@@ -7,13 +7,24 @@
 
 <br>
 
-# HTML--超文本标记语言
-#### *📑快捷目录*
-+ [第一个html文档解析](#1)
-+ [网页标题](#2)
-+ [HTML 标题](#3)
-+ [HTML 段落](#4)
-+ [HTML 超链接](#5)
+# HTML 指南
+
+>> 文档为本人所有，如需要转载请先联系我，⚡特此说明！
+<hr/>
+
+*HTML(HyperText Markup Language)--超文本标记语言，标准通用标记语言下的一个应用。是网页制作必备的编程语言*
+
+前端学习参考网站
+ - [RUNOOB](http://www.runoob.com/)
+ - [W3school](http://www.w3school.com.cn/index.html)
+
+## 目录
+
+1. [第一个html文档解析](#1)
+1. [网页标题](#2)
+1. [HTML 标题](#3)
+1. [HTML 段落](#4)
+1. [HTML 超链接](#5)
 
 ---
 

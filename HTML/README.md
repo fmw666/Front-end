@@ -33,7 +33,7 @@
   <a name="1.1"></a>
   - [1.1](#1.1) html基本结构
   
-    ```sass
+    ```html5
     <!DOCTYPE html>
     <html>
     <head>

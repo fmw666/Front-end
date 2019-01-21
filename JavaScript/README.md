@@ -1,8 +1,5 @@
-<div align="center">
-  <h2>导航栏</h2>
-</div>
 <div>
-  <table border="0.5" align="center">
+  <table border="1" align="center">
   <tr>
     <th><a href="#">HTML(在更)</a></th>
     <th><a href="#">CSS(在更)</a></th>

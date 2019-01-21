@@ -1,13 +1,8 @@
-<div>
-  <table>
-  <tr>
-    <th><a href="#">HTML(在更)</a></th>
-    <th><a href="#">CSS(在更)</a></th>
-    <th>JavaScript(在更)</th>
-    <th><a href="#">BootStrap</a></th>
-    <th><a href="#">jQuery</a></th>
-  </tr>
-</table>
+<div align="center">
+  <h2>📖</h2>
+</div>  
+<div align="center">
+  <a href="#">HTML(在更)</a> / <a href="#">CSS(在更)</a> / JavaScript(在更) / <a href="#">BootStrap</a> / <a href="#">jQuery</a>
 </div>
 
 <br>

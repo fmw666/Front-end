@@ -2,12 +2,12 @@
   <h2>导航栏</h2>
 </div>
 <div align="center">
-  <h2>导航栏</h2>
+  导航栏
   <table align="center">
   <tr>
     <th><a href="#">HTML(在更)</a></th>
     <th><a href="#">CSS(在更)</a></th>
-    <th><a href="#">JavaScript(在更)</a></th>
+    <th>JavaScript(在更)</th>
     <th><a href="#">BootStrap</a></th>
     <th><a href="#">jQuery</a></th>
   </tr>

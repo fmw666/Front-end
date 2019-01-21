@@ -65,7 +65,7 @@
 **[⬆ back to top](#目录)**
 
 <a name="3"></a>
-+ **HTML 标题**
+## HTML 标题
 
   *HTML 标题（Heading）是通过 `<h1> - <h6>` 等标签进行定义的。*
   ```html

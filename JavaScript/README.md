@@ -5,8 +5,11 @@
   <h4><a href="#">HTML(在更)</a> / <a href="#">CSS(在更)</a> / JavaScript(在更) / <a href="#">BootStrap</a> / <a href="#">jQuery</a></h4>
   <table>
   <tr>
-    <th>Month</th>
-    <th>Savings</th>
+    <th><a href="#">HTML(在更)</a></th>
+    <th><a href="#">CSS(在更)</a></th>
+    <th><a href="#">JavaScript(在更)</a></th>
+    <th><a href="#">BootStrap</a></th>
+    <th><a href="#">jQuery</a></th>
   </tr>
 </table>
 </div>

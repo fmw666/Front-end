@@ -22,3 +22,22 @@
 + CSS(Cascading Style Sheets)--层叠样式表
 
 + JavaScript--网页脚本语言
+
+***💻使用编译器新建第一个 html文档***
+
++ 在要新建 html 文档的文件夹里打开 [VS code](#no-jump) ，点击新建文件
++ 输入文件名`index.html`，`index`为文档名，根据用户喜好设定。`html`为后缀名，也可以设为`htm`
++ 在文件里输入下面内容：
+  ```html
+  <!DOCTYPE html>
+  <html>
+  <head>
+      <meta charset="utf-8" />
+      <title>网页名字</title>
+  </head>
+  <body>
+      这是我的第一个网页
+  </body>
+  </html>
+  ```
++ 复制文件路径，在网页url中打开。

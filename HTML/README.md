@@ -14,6 +14,8 @@
 
 *HTML(HyperText Markup Language)--超文本标记语言，标准通用标记语言下的一个应用。是网页制作必备的编程语言*
 
+<img scr="pics/cute.png" width="100">
+
 前端学习参考网站
  - [RUNOOB](http://www.runoob.com/)
  - [W3school](http://www.w3school.com.cn/index.html)

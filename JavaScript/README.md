@@ -2,9 +2,9 @@
   <h2>导航栏</h2>
 </div>
 <div align="center">
-  导航栏
   <table align="center">
   <tr>
+    导航栏
     <th><a href="#">HTML(在更)</a></th>
     <th><a href="#">CSS(在更)</a></th>
     <th>JavaScript(在更)</th>

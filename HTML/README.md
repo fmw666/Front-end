@@ -31,6 +31,15 @@
   - `<head>` 元素包含了文档的元（meta）数据
   - `<body>` 元素包含了可见的页面内容(下面讲解的标签基本都写在这个标签里)
   
++ **网页标题**
+
+  *网页标题是通过 `<title>` 标签来定义的。*
+  ```html
+  <title>我是标题</title>
+  ```
+  <img src="pics/0.png" width="300">
+  > `<title>` 标签约定放在 `<head>` 标签中
+  
 + **HTML 标题**
 
   *HTML 标题（Heading）是通过 `<h1> - <h6>` 等标签进行定义的。*
@@ -51,4 +60,12 @@
   <p>第一个段落。</p>
   <p>这是第二个段落，看看是不是一行？</p>
   ```
-  <img src="pics/2.png" width="700">
+  <img src="pics/2.png" width="500">
+
++ **HTML 超链接**
+
+  *HTML 链接是通过 `<a>` 标签进行定义的。*
+  ```html
+  <a href="https://github.com/fmw666/Front-end">我就是超链接，点我吧~</a>
+  ```
+  <img src="pics/3.png" width="500">

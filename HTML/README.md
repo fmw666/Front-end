@@ -33,7 +33,7 @@
   <a name="1.1"></a>
   - [1.1](#1.1) html基本结构
   
-    ```html5
+    ```sass
     <!DOCTYPE html>
     <html>
     <head>
@@ -64,7 +64,7 @@
   <a name="2.1"></a>
   - [2.1](#2.1) sadasd
     *网页标题是通过 `<title>` 标签来定义的。*
-    ```html
+    ```sass
     <title>我是标题</title>
     ```
     <img src="pics/0.png" width="300"><br>
@@ -93,7 +93,7 @@
 + **HTML 段落**
 
   *HTML 段落是通过标签 `<p>` 来定义的。*
-  ```html
+  ```sass
   <p>第一个段落。</p>
   <p>这是第二个段落，看看是不是一行？</p>
   ```
@@ -105,7 +105,7 @@
 + **HTML 超链接**
 
   *HTML 链接是通过 `<a>` 标签进行定义的。*
-  ```html
+  ```sass
   <a href="https://github.com/fmw666/Front-end">我就是超链接，点我吧~</a>
   ```
   <img src="pics/3.png" width="500">

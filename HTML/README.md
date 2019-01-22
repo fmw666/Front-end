@@ -33,7 +33,7 @@
   <a name="1.1"></a>
   - [1.1](#1.1) html基本结构
   
-    ```sass
+    ```html
     <!DOCTYPE html>
     <html>
     <head>
@@ -49,6 +49,15 @@
     
   <a name="1.2"></a>
   - [1.2](#1.2) `<!DOCTYPE html>`声明为 HTML5 文档
+  
+    + `<!DOCTYPE>` 声明必须是 HTML 文档的第一行，位于 `<html>` 标签之前。
+    + 向 HTML 文档添加 `<!DOCTYPE>` 声明，这样浏览器才能获知文档类型。
+    + `<!DOCTYPE>` 声明没有结束标签，并且对大小写不敏感。
+    +  HTML5 中只有一种 `<!DOCTYPE>` 声明（在 HTML 4.01 中有三种），即：
+    
+      ```html
+      <!DOCTYPE html>
+      ```
   
   <a name="1.3"></a>
   - [1.3](#1.3) `<html>` 元素是 HTML 页面的根元素
@@ -66,7 +75,7 @@
   <a name="2.1"></a>
   - [2.1](#2.1)  `<title>` 标签定义网页标题。
   
-    ```sass
+    ```html
     <title>我是标题</title>
     ```
     <img src="pics/0.png" width="300"><br>
@@ -95,7 +104,7 @@
 + **HTML 段落**
 
   *HTML 段落是通过标签 `<p>` 来定义的。*
-  ```sass
+  ```html
   <p>第一个段落。</p>
   <p>这是第二个段落，看看是不是一行？</p>
   ```
@@ -107,7 +116,7 @@
 + **HTML 超链接**
 
   *HTML 链接是通过 `<a>` 标签进行定义的。*
-  ```sass
+  ```html
   <a href="https://github.com/fmw666/Front-end">我就是超链接，点我吧~</a>
   ```
   <img src="pics/3.png" width="500">

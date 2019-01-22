@@ -68,7 +68,7 @@
     
     + 🕹 它们之间是文档的头部和主体，即 [\<head\>](#no-jump) 和 [\<body\>](#no-jump) 标签里的内容。
     
-    <img scr="https://github.com/fmw666/Python/blob/master/pics/cute-fly-pink.png" width="200">
+    <img src="https://github.com/fmw666/Python/blob/master/pics/cute-fly-pink.png" width="200">
   
   <a name="1.4"></a>
   - [1.4](#1.4) **`<head>` 元素包含了文档的元（meta）数据**

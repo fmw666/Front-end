@@ -153,7 +153,7 @@
   <a name="2.3"></a>
   - [2.3](#2.3) **HTML 水平线**
   
-    使用 [\<hr\>](#no-jump) 标签在 HTML 页面中创建水平线。
+    🎯 使用 [\<hr\>](#no-jump) 标签在 HTML 页面中创建水平线。
     
     ```sass
     <h4>这是第一个h4标题</h4>
@@ -161,7 +161,7 @@
     <h4>这是第二个h4标题</h4>
     ```
     
-    <img src="pics/h.png" width="1000">
+    <img src="pics/hr.png" width="1000">
   
 **[⬆ back to top](#目录)**
 

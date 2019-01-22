@@ -84,6 +84,10 @@
     + 💸 下面这些标签可用在 [head](#no-jump) 部分：[\<base\>](#no-jump), [\<link\>](#no-jump), [\<meta\>](#no-jump), [\<script\>](#no-jump), [\<style\>](#no-jump), 以及 [\<title\>](#no-jump)。
     
     + 💸 [\<head\>](#no-jump) 标签放在文档的开始处，紧跟在 [\<html\>](#no-jump) 后面，并处于 [\<body\>](#no-jump) 标签之前。
+    
+    <div align="center">
+      <img src="https://github.com/fmw666/Python/blob/master/pics/cute-x3.png" width="150">
+    </div>
   
   <a name="1.5"></a>
   - [1.5](#1.5) **`<title>` 元素描述了文档的标题**

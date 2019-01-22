@@ -94,12 +94,29 @@
   
     &emsp;&emsp;💡 浏览器会以特殊的方式来使用标题，并且通常把它放置在浏览器窗口的标题栏或状态栏上。同样，当把文档加入用户的链接列表或者收藏夹或书签列表时，标题将成为该文档链接的默认名称。
     
+    <div align="center">
+      <img src="https://github.com/fmw666/Python/blob/master/pics/cute-x4.png" width="150">
+    </div>
+    
   <a name="1.6"></a>
   - [1.6](#1.6) **`<body>` 元素包含了可见的页面内容(下面讲解的标签基本都写在这个标签里)**
   
     + 🎈 [body](#no-jump) 元素定义文档的主体。 
     
     + 🎈 [body](#no-jump) 元素包含文档的所有内容（比如文本、超链接、图像、表格和列表等等。）
+    
+    <div align="center">
+      <img src="https://github.com/fmw666/Python/blob/master/pics/cute-y1.png" width="150">
+    </div>
+    
+  <a name="1.7"></a>
+  - [1.7](#1.7) **`<!-- -->` 标签里为注释内容**
+  
+    &emsp;&emsp;🎗 注释可以提高程序的可读性，使代码更容易被别人理解。在大多数编译器里，可通过快捷键 [ctrl](#no-jump) + [//](#no-jump) 来注释一行。
+    
+    <div align="center">
+      <img src="https://github.com/fmw666/Python/blob/master/pics/cute-y2.png" width="150">
+    </div>
   
 **[⬆ back to top](#目录)**
 

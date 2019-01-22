@@ -112,7 +112,7 @@
   <a name="1.7"></a>
   - [1.7](#1.7) **`<!-- -->` 标签里为注释内容**
   
-    &emsp;&emsp;🎗 注释可以提高程序的可读性，使代码更容易被别人理解。在大多数编译器里，可通过快捷键 [ctrl](#no-jump) + [//](#no-jump) 来注释一行。
+    &emsp;&emsp;🎗 注释可以提高程序的可读性，使代码更容易被别人理解。在大多数编译器里，可通过快捷键 [ctrl](#no-jump) + [/](#no-jump) 来注释一行。
     
     <div align="center">
       <img src="https://github.com/fmw666/Python/blob/master/pics/cute-y2.png" width="150">

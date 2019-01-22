@@ -31,7 +31,7 @@
 ## 第一个html文档解析
 
   <a name="1.1"></a>
-  - [🔖1.1](#1.1) html基本结构
+  - [1.1](#1.1) html基本结构
   
     ```html
     <!DOCTYPE html>
@@ -48,18 +48,18 @@
     ```
     
   <a name="1.2"></a>
-  - [🔖1.2](#1.2) `<!DOCTYPE html\>` 声明为 HTML5 文档
+  - [1.2](#1.2) `<!DOCTYPE html\>` 声明为 HTML5 文档
   
-    + [\<!DOCTYPE\>]((#no-jump)) 声明必须是 HTML 文档的第一行，位于 [\<html\>](#no-jump) 标签之前。
-    + 向 HTML 文档添加 [\<!DOCTYPE\>](#no-jump) 声明，这样浏览器才能获知文档类型。
-    + [\<!DOCTYPE\>](#no-jump) 声明没有结束标签，并且对大小写不敏感。
-    +  HTML5 中只有一种 [\<!DOCTYPE\>](#no-jump) 声明（在 HTML 4.01 中有三种），即：
+    + 🔖[\<!DOCTYPE\>]((#no-jump)) 声明必须是 HTML 文档的第一行，位于 [\<html\>](#no-jump) 标签之前。
+    + 🔖向 HTML 文档添加 [\<!DOCTYPE\>](#no-jump) 声明，这样浏览器才能获知文档类型。
+    + 🔖[\<!DOCTYPE\>](#no-jump) 声明没有结束标签，并且对大小写不敏感。
+    + 🔖HTML5 中只有一种 [\<!DOCTYPE\>](#no-jump) 声明（在 HTML 4.01 中有三种），即：
       ```html
       <!DOCTYPE html>
       ```
   
   <a name="1.3"></a>
-  - [🔖1.3](#1.3) `<html>` 元素是 HTML 页面的根元素
+  - [1.3](#1.3) `<html>` 元素是 HTML 页面的根元素
   
   <a name="1.4"></a>
   - [1.4](#1.4) `<head>` 元素包含了文档的元（meta）数据

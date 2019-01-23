@@ -360,3 +360,23 @@
     </div>
     
 **[⬆ back to top](#目录)** 
+
+## HTML 头部
+
+  <a name="7.1></a>
+  - [7.1](#7.1) **HTML `<head>` 元素**
+  
+    + 🎓 [\<head\>](#no-jump) 元素包含了所有的头部标签元素。
+    
+    + 🎓 在 [\<head\>](#no-jump) 元素中你可以插入脚本（scripts）, 样式文件（CSS），及各种 meta 信息。
+    
+    + 🎓 可以在头部区域添加的元素标签为: [\<title\>](#no-jump)、[\<style\>](#no-jump)、[\<meta\>](#no-jump)、[\<link\>](#no-jump)、[\<script\>](#no-jump)、[\<noscript\>](#no-jump)、[\<base\>](#no-jump)
+    
+      |标签|描述|
+      |:---|:------|
+      |[\<title\>](#no-jump)|定义了文档的标题|
+      |[\<style\>](#no-jump)|定义了HTML文档的样式文件|
+      |[\<meta\>](#no-jump)|定义了HTML文档中的元数据|
+      |[\<link\>](#no-jump)|定义了一个文档和外部资源之间的关系|
+      |[\<script\>](#no-jump)|定义了客户端的脚本文件|
+      |[\<base\>](#no-jump)|定义了页面链接标签的默认链接地址|

@@ -253,11 +253,30 @@
   <a name="5.1"></a>
   - [5.1](#5.1) **HTML 格式化标签**
   
-    + 📚 HTML 使用标签 [\<b\>](#no-jump)("bold") 与 [\<i\>](#no-jump)("italic") 对输出的文本进行格式, 如：**粗体** or *斜体*
+    + 📚 HTML 使用标签 [\<b\>](#no-jump)("bold") 与 [\<i\>](#no-jump)("italic") 对输出的文本进行格式，如：**粗体** or *斜体*
     
       > 通常标签 [\<strong\>](#no-jump) 替换加粗标签 [\<b\>](#no-jump) 来使用， [\<em\>](#no-jump) 替换 [\<i\>](#no-jump) 标签使用。[\<strong\>](#no-jump) 或者 [\<em\>](#no-jump) 意味着你要呈现的文本是重要的，所以要突出显示。
 
     + 📚 这些 HTML 标签被称为格式化标签（请查看下方完整标签参考手册）。
+    
+    <div align="center">
+      <img src="https://github.com/fmw666/Python/blob/master/pics/cute-dog-question-gif.gif" width="150">
+    </div>
+    
+  <a name="5.2"></a>
+  - [5.2](#5.2) **HTML 文本格式化标签**
+  
+    |标签|描述|
+    |:---|:------|
+    |<b>|定义粗体文本|
+    |<em>|定义着重文字|
+    |<i>|定义斜体字|
+    |<small>|定义小号字|
+    |<strong>|定义加重语气|
+    |<sub>|定义下标字|
+    |<sup>|定义上标字|
+    |<ins>|定义插入字|
+    |<del>|定义删除字|
 
 **[⬆ back to top](#目录)**
 

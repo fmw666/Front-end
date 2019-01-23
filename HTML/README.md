@@ -245,6 +245,21 @@
       |id|定义元素的唯一id|
       |style|规定元素的行内样式（inline style）|
       |title|描述了元素的额外信息 (作为工具条使用)|
+     
+**[⬆ back to top](#目录)**
     
+## HTML 文本格式化
+
+  <a name="5.1"></a>
+  - [5.1](#5.1) **HTML 格式化标签**
+  
+    + 📚 HTML 使用标签 [\<b\>](#no-jump)("bold") 与 [\<i\>](#no-jump)("italic") 对输出的文本进行格式, 如：**粗体** or *斜体*
     
+      > 通常标签 [\<strong\>](#no-jump) 替换加粗标签 [\<b\>](#no-jump) 来使用， [\<em\>](#no-jump) 替换 [\<i\>](#no-jump) 标签使用。[\<strong\>](#no-jump) 或者 [\<em\>](#no-jump) 意味着你要呈现的文本是重要的，所以要突出显示。
+
+    + 📚 这些 HTML 标签被称为格式化标签（请查看下方完整标签参考手册）。
+
+**[⬆ back to top](#目录)**
+
+## HTML 超链接
     

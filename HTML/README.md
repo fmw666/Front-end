@@ -319,8 +319,10 @@
       <a href="url">链接文本</a>
       ```
       
+      > 请始终将正斜杠添加到子文件夹。假如这样书写链接：href="https://github.com/fmw666/Front-end/tree/master/HTML"，就会向服务器产生两次 HTTP 请求。这是因为服务器会添加正斜杠到这个地址，然后创建一个新的请求，就像这样：href="https://github.com/fmw666/Front-end/tree/master/HTML/"。
+      
     <div align="center">
-      <img src="https://github.com/fmw666/Python/blob/master/pics/cute-meat.jpg/" width="200">
+      <img src="https://github.com/fmw666/Python/blob/master/pics/cute-meat.jpg/" width="150">
     </div>
     
   <a name="6.2"></a>
@@ -335,21 +337,21 @@
   <a name="6.3"></a>
   - [6.3](#6.3) **HTML 超链接 -- id 属性**
   
-    + id 属性可用于创建在一个 HTML 文档书签标记。
+    + 🍮 id 属性可用于创建在一个 HTML 文档书签标记。
     
-    + 在 HTML 文档中插入 id:
+    + 🍮 在 HTML 文档中插入 id:
     
       ```sass
       <a id="tips">有用的提示部分</a>
       ```
       
-    + 在 HTML 文档中创建一个链接到"有用的提示部分(id="tips"）"：
+    + 🍮 在 HTML 文档中创建一个链接到"有用的提示部分(id="tips"）"：
     
       ```sass
       <a href="#tips">访问有用的提示部分</a>
       ```
       
-    + 或者，从另一个页面创建一个链接到"有用的提示部分(id="tips"）"：
+    + 🍮 或者，从另一个页面创建一个链接到"有用的提示部分(id="tips"）"：
     
       ```sass
       <a href="https://github.com/fmw666/Front-end/tree/master/HTML#tips">访问有用的提示部分</a>

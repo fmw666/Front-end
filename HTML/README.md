@@ -213,12 +213,38 @@
     
 **[⬆ back to top](#目录)**
 
-+ **HTML 超链接**
+## HTML 属性
 
-  *HTML 链接是通过 `<a>` 标签进行定义的。*
-  ```html
-  <a href="https://github.com/fmw666/Front-end">我就是超链接，点我吧~</a>
-  ```
-  <img src="pics/3.png" width="500">
+  <a name="4.1"></a>
+  - [4.1](#4.1) **属性是 HTML 元素提供的附加信息**
   
-  > 链接到的内容在`href`中
+    + 🥢 属性一般描述于开始标签。如 HTML 链接由 [\<a\>](#no-jump) 标签定义，链接的地址在 [href](#no-jump) 属性中指定。
+    
+      ```sass
+      <a href="https://github.com/fmw666">我就是超链接，点击我即可跳转页面！</a>
+      ```
+    
+    + 🥢 属性总是以名称/值对的形式出现，比如：`name="value"`
+    
+    + 🥢 属性值应该始终被包括在引号内，双引号是最常用的，不过使用单引号也没有问题。
+    
+    + 🥢 如果属性值本身就含有双引号，那么必须使用单引号，例如：`name='John "ShotGun" Nelson'`
+    
+    <div align="center">
+      <img src="https://github.com/fmw666/Python/blob/master/pics/cute-chuoni.jpg" width="150">
+    </div>
+    
+  <a name="4.2"></a>
+  - [4.2](#4.2) **HTML 属性参考手册**
+  
+    &emsp;&emsp;下面列出了适用于大多数 HTML 元素的属性：
+    
+      |属性|描述|
+      |:--:|:--:|
+      |class|为html元素定义一个或多个类名（classname）(类名从样式文件引入)|
+      |id|定义元素的唯一id|
+      |style|规定元素的行内样式（inline style）|
+      |title|描述了元素的额外信息 (作为工具条使用)|
+    
+    
+    

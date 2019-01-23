@@ -306,3 +306,28 @@
 
 ## HTML 超链接
     
+  <a name="6.1"></a>
+  - [6.1](#6.1) **HTML 超链接通过标签 `<a>` 定义**
+  
+    + 🏹 超链接可以是一个字，一个词，或者一组词，也可以是一幅图像，您可以点击这些内容来跳转到新的文档或者当前文档中的某个部分。
+    
+    + 🏹 当您把鼠标指针移动到网页中的某个链接上时，箭头会变为一只小手。
+    
+    + 🏹 在标签<a> 中使用了href属性来描述链接的地址。
+  
+      ```sass
+      <a href="url">链接文本</a>
+      ```
+      
+    <div align="center">
+      <img src="https://github.com/fmw666/Python/blob/master/pics/cute-meat.jpg/" width="150">
+    </div>
+    
+  <a name="6.2"></a>
+  - [6.2](#6.2) **HTML 超链接 -- target 属性*
+  
+    📁 使用 target 属性，你可以定义被链接的文档在何处显示。
+    
+    ```sass
+    <a href="https://fmw666.github.io/" target="_blank">访问我的博客!</a>
+    ```

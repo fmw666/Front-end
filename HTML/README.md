@@ -320,14 +320,43 @@
       ```
       
     <div align="center">
-      <img src="https://github.com/fmw666/Python/blob/master/pics/cute-meat.jpg/" width="150">
+      <img src="https://github.com/fmw666/Python/blob/master/pics/cute-meat.jpg/" width="200">
     </div>
     
   <a name="6.2"></a>
-  - [6.2](#6.2) **HTML 超链接 -- target 属性*
+  - [6.2](#6.2) **HTML 超链接 -- target 属性**
   
     📁 使用 target 属性，你可以定义被链接的文档在何处显示。
     
     ```sass
     <a href="https://fmw666.github.io/" target="_blank">访问我的博客!</a>
     ```
+    
+  <a name="6.3"></a>
+  - [6.3](#6.3) **HTML 超链接 -- id 属性**
+  
+    + id 属性可用于创建在一个 HTML 文档书签标记。
+    
+    + 在 HTML 文档中插入 id:
+    
+      ```sass
+      <a id="tips">有用的提示部分</a>
+      ```
+      
+    + 在 HTML 文档中创建一个链接到"有用的提示部分(id="tips"）"：
+    
+      ```sass
+      <a href="#tips">访问有用的提示部分</a>
+      ```
+      
+    + 或者，从另一个页面创建一个链接到"有用的提示部分(id="tips"）"：
+    
+      ```sass
+      <a href="https://github.com/fmw666/Front-end/tree/master/HTML#tips">访问有用的提示部分</a>
+      ```
+      
+    <div align="center">
+      <img src="https://github.com/fmw666/Python/blob/master/pics/cute-fly.png/" width="150">
+    </div>
+    
+**[⬆ back to top](#目录)** 

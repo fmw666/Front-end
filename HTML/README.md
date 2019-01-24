@@ -393,4 +393,67 @@
       ```
       
   <a name="7.3"></a>
-  - [7.3](#7.3) ****
+  - [7.3](#7.3) **HTML `<link>` 元素**
+  
+    + ⌛ [\<link\>](#no-jump) 标签定义了文档与外部资源之间的关系。
+    
+    + ⌛ [\<link\>](#no-jump) 标签通常用于链接到样式表：
+    
+      ```sass
+      <head>
+      <link rel="stylesheet" type="text/css" href="my-style.css">
+      </head>
+      ```
+      
+  <a name="7.4"></a>
+  - [7.4](#7.4) **HTML `<style>` 元素**
+  
+    + [\<style\>](#no-jump) 标签定义了 HTML 文档的样式文件引用地址。
+    
+    + 在 [\<style\>](#no-jump) 元素中你也可以直接添加样式来渲染 HTML 文档：
+    
+      ```sass
+      <head>
+          <style type="text/css">
+              body{
+                  background-color:yellow;
+              }
+              p{
+                  color: blue;
+              }
+          </style>
+      </head>
+      ```
+      
+  <a name="7.5"></a>
+  - [7.5](#7.5) **HTML `<meta>` 元素**
+  
+    + [\<meta\>](#no-jump) 标签描述了一些基本的元数据。
+    
+    + [\<meta\>](#no-jump) 标签提供了元数据。元数据也不显示在页面上，但会被浏览器解析。
+
+    + meta 元素通常用于指定网页的描述、关键词、文件的最后修改时间、作者、和其他元数据。
+    
+    + 为搜索引擎定义关键词：
+    
+      ```sass
+      <meta name="keywords" content="HTML, CSS, XML, XHTML, JavaScript">
+      ```
+      
+    + 为网页定义描述内容：
+    
+      ```sass
+      <meta name="description" content="Web & 编程 教程">
+      ```
+      
+    + 定义网页作者：
+    
+      ```sass
+      <meta name="author" content="fmw666">
+      ```
+      
+    + 每30秒钟刷新当前页面：
+    
+      ```sass
+      <meta http-equiv="refresh" content="30">
+      ```

@@ -464,7 +464,7 @@
     📜 [\<script\>](#no-jump) 标签用于加载脚本文件，如： [JavaScript](#no-jump)。（后续会专门讲解）
     
     <div align="center">
-      <img src="https://github.com/fmw666/My-Private-file/blob/master/pictures/cute/cute-tuicheche.jpg/" width="100">
+      <img src="https://github.com/fmw666/My-Private-file/blob/master/pictures/cute/cute-tuicheche.jpg/" width="150">
     </div>
     
 **[⬆ back to top](#目录)** 

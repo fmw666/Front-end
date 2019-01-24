@@ -457,3 +457,16 @@
       ```sass
       <meta http-equiv="refresh" content="30">
       ```
+      
+  <a name="7.6"></a>
+  - [7.6](#7.6) **HTML `<script>` 元素**
+  
+    📜 [\<script\>](#no-jump) 标签用于加载脚本文件，如： [JavaScript](#no-jump)。（后续会专门讲解）
+    
+    <div align="center">
+      <img src="https://github.com/fmw666/Python/blob/master/pics/cute-qinqin.jpg/" width="150">
+    </div>
+    
+**[⬆ back to top](#目录)** 
+
+## HTML 图像

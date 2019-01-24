@@ -503,5 +503,5 @@
       ```
       
     <div align="center">
-      <img src="https://github.com/fmw666/My-Private-file/blob/master/pictures/cute/cute-catzhuan-gif.gif/" width="150">
+      <img src="https://github.com/fmw666/Python/blob/master/pics/cute-x4.png/" width="150">
     </div>

@@ -505,3 +505,63 @@
     <div align="center">
       <img src="https://github.com/fmw666/Python/blob/master/pics/cute-y4.png/" width="150">
     </div>
+
+**[⬆ back to top](#目录)** 
+
+## HTML 表格
+
+  <a name="9.1"></a>
+  - [9.1](#9.1) **HTML 表格由 `<table>` 标签来定义** 
+  
+    ⌨ 每个表格均有若干行（由 [\<tr\>](#no-jump) 标签定义），每行被分割为若干单元格（由 [\<td\>](#no-jump) 标签定义）。字母 [\<td\>](#no-jump) 指表格数据（table data），即数据单元格的内容。数据单元格可以包含文本、图片、列表、段落、表单、水平线、表格等等。
+    
+    ```sass
+    <table>
+        <tr>
+            <td>一行一列</td>
+            <td>一行二列</td>
+        </tr>
+        <tr>
+            <td>二行一列</td>
+            <td>二行二列</td>
+        </tr>
+    </table>
+    ```
+    
+  <a name="9.2"></a>
+  - [9.2](#9.2) **HTML 表格和边框属性**
+  
+    🎼 如果不定义边框属性，表格将不显示边框。有时这很有用，但是大多数时候，我们希望显示边框。使用边框属性来显示一个带有边框的表格(默认单位像素)：
+    
+    ```sass
+    <table border="1">
+        <tr>
+            <td>一行一列</td>
+            <td>一行二列</td>
+        </tr>
+    </table>
+    ```
+    
+  <a name="9.3"></a>
+  - [9.3](#9.3) **HTML 表格表头通过标签 `<th>` 定义**
+  
+    🚄 大多数浏览器会把表头显示为粗体居中的文本：
+    
+    ```sass
+    <table border="1">
+        <tr>
+            <th>标题一</th>
+            <th>标题二</th>
+        </tr>
+        <tr>
+            <td>一行一列</td>
+            <td>一行二列</td>
+        </tr>
+        <tr>
+            <td>二行一列</td>
+            <td>二行二列</td>
+        </tr>
+    </table>
+    ```
+  
+    

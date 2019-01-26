@@ -690,7 +690,7 @@
                 <b>菜单</b><br>
                 <a href="https://github.com/fmw666/Front-end/blob/master/HTML/README.md#head/">HTML</a><br>
                 <a href="https://github.com/fmw666/Front-end/blob/master/CSS/README.md#head/">CSS</a><br>
-                <a href="https://github.com/fmw666/Front-end/blob/master/JavaScript/README.md#head">JavaScript</a>
+                <a href="https://github.com/fmw666/Front-end/blob/master/JavaScript/README.md#head/">JavaScript</a>
             </div>
 
             <div id="content" style="background-color:#EEEEEE;height:200px;width:400px;float:left;">
@@ -709,3 +709,50 @@
     ```
     
     <img src="pics/layout.png" width="1000">
+    
+  <a name="12.2"></a>
+  - [12.2](#12.2) **HTML 布局 - 使用表格**
+  
+    ```sass
+    <!DOCTYPE html>
+    <html>
+
+    <head>
+        <meta charset="utf-8">
+        <title>HTML 布局 - 使用表格</title>
+    </head>
+
+    <body>
+
+        <table width="500" border="0">
+            <tr>
+                <td colspan="2" style="background-color:#FFA500;">
+                    <h1>主要的网页标题</h1>
+                </td>
+            </tr>
+
+            <tr>
+                <td style="background-color:#FFD700;width:100px;">
+                    <b>菜单</b><br>
+                    <a href="https://github.com/fmw666/Front-end/blob/master/HTML/README.md#head/">HTML</a><br>
+                    <a href="https://github.com/fmw666/Front-end/blob/master/CSS/README.md#head/">CSS</a><br>
+                    <a href="https://github.com/fmw666/Front-end/blob/master/JavaScript/README.md#head/">JavaScript</a>
+                </td>
+                <td style="background-color:#eeeeee;height:200px;width:400px;">
+                    内容在这里</td>
+            </tr>
+
+            <tr>
+                <td colspan="2" style="background-color:#FFA500;text-align:center;">
+                    来自 © runoob.com</td>
+            </tr>
+        </table>
+
+    </body>
+
+    </html>
+    ```
+    
+    <img src="pics/layout-table.png" width="1000">
+    
+**[⬆ back to top](#目录)**  

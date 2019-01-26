@@ -625,34 +625,34 @@
   <a name="11.1"></a>
   - [11.1](#11.1) **HTML 区块元素**
   
-    + 大多数 HTML 元素被定义为块级元素或内联元素。
+    + 🎲 大多数 HTML 元素被定义为块级元素或内联元素。
     
-    + 块级元素在浏览器显示时，通常会以新行来开始（和结束）。
+    + 🎲 块级元素在浏览器显示时，通常会以新行来开始（和结束）。
     
-    + 实例: [\<h1\>](#no-jump), [\<p\>](#no-jump), [\<ul\>](#no-jump), [\<table\>](#no-jump)
+    + 🎲 实例: [\<h1\>](#no-jump), [\<p\>](#no-jump), [\<ul\>](#no-jump), [\<table\>](#no-jump)
     
   <a name="11.2"></a>
   - [11.2](#11.2) **HTML 内联元素**
   
-    + 内联元素在显示时通常不会以新行开始。
+    + 🕹 内联元素在显示时通常不会以新行开始。
     
-    + 实例: [\<b\>](#no-jump), [\<td\>](#no-jump), [\<a\>](#no-jump), [\<img\>](#no-jump)
+    + 🕹 实例: [\<b\>](#no-jump), [\<td\>](#no-jump), [\<a\>](#no-jump), [\<img\>](#no-jump)
     
   <a name="11.3"></a>
   - [11.3](#11.3) **HTML `<div>` 元素**
   
-    + HTML [\<div\>](#no-jump) 元素是块级元素，它可用于组合其他 HTML 元素的容器。
+    + 💸 HTML [\<div\>](#no-jump) 元素是块级元素，它可用于组合其他 HTML 元素的容器。
     
-    + [\<div\>](#no-jump) 元素没有特定的含义。除此之外，由于它属于块级元素，浏览器会在其前后显示折行。
+    + 💸 [\<div\>](#no-jump) 元素没有特定的含义。除此之外，由于它属于块级元素，浏览器会在其前后显示折行。
   
-    + 如果与 [CSS](#no-jump) 一同使用，[\<div\>](#no-jump) 元素可用于对大的内容块设置样式属性。
+    + 💸 如果与 [CSS](#no-jump) 一同使用，[\<div\>](#no-jump) 元素可用于对大的内容块设置样式属性。
     
   <a name="11.4"></a>
   - [11.4](#11.4) **HTML `<span>` 元素**
   
-    + HTML [\<span\>](#no-jump) 元素是内联元素，可用作文本的容器。
+    + 💡 HTML [\<span\>](#no-jump) 元素是内联元素，可用作文本的容器。
   
-    + [\<span\>](#no-jump) 元素当与 [CSS](#no-jump) 一同使用时，[\<span\>](#no-jump) 元素可用于为部分文本设置样式属性。
+    + 💡 [\<span\>](#no-jump) 元素当与 [CSS](#no-jump) 一同使用时，[\<span\>](#no-jump) 元素可用于为部分文本设置样式属性。
     
   <a name="11.5"></a>
   - [11.5](#11.5) **HTML 分组标签**
@@ -663,3 +663,49 @@
     |[\<span\>](#no-jump)|用来组合文档中的行内元素， 内联元素(inline)|
     
 **[⬆ back to top](#目录)**  
+
+## HTML 布局
+
+  <a name="12.1"></a>
+  - [12.1](#12.1) **HTML 布局 - 使用 `<div>` 元素**
+  
+    ```sass
+    <!DOCTYPE html>
+    <html>
+
+    <head>
+        <meta charset="utf-8">
+        <title>HTML 布局 - 使用<div> 元素</title>
+    </head>
+
+    <body>
+
+        <div id="container" style="width:500px">
+
+            <div id="header" style="background-color:#FFA500;">
+                <h1 style="margin-bottom:0;">主要的网页标题</h1>
+            </div>
+
+            <div id="menu" style="background-color:#FFD700;height:200px;width:100px;float:left;">
+                <b>菜单</b><br>
+                <a href="https://github.com/fmw666/Front-end/blob/master/HTML/README.md#head/">HTML</a><br>
+                <a href="https://github.com/fmw666/Front-end/blob/master/CSS/README.md#head/">CSS</a><br>
+                <a href="https://github.com/fmw666/Front-end/blob/master/JavaScript/README.md#head">JavaScript</a>
+            </div>
+
+            <div id="content" style="background-color:#EEEEEE;height:200px;width:400px;float:left;">
+                内容在这里
+            </div>
+
+            <div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
+                来自 © runoob.com
+            </div>
+
+        </div>
+
+    </body>
+
+    </html>
+    ```
+    
+    <img src="pics/layout.png" width="1000">

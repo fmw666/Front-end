@@ -12,7 +12,7 @@
 >> 文档为本人所有，如需要转载请先[联系我](https://github.com/fmw666)，⚡特此说明！
 <hr/>
 
-*"CSS(Cascading Style Sheets)--层叠样式表，一种用来表现HTML（标准通用标记语言的一个应用）或XML（标准通用标记语言的一个子集）等文件样式的计算机语言。"*
+*"CSS(Cascading Style Sheets)--层叠样式表，一种用来表现 HTML 或 XML 等文件样式的计算机语言。"*
 
 <img src="pics/cute.jpg" width="100">
 

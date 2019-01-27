@@ -758,3 +758,105 @@
 **[⬆ back to top](#目录)**  
 
 ## HTML 表单
+
+  <a name="13.1"></a>
+  - [13.1](#13.1) **HTML 表单 - 输入元素**
+  
+    + 表单是一个包含表单元素的区域。
+    
+    + 表单元素是允许用户在表单中输入内容,比如：文本域(textarea)、下拉列表、单选框(radio-buttons)、复选框(checkboxes)等等。
+    
+    + 表单使用表单标签 [\<form\>](#no-jump) 来设置:
+    
+      ```sass
+      <form>
+      .
+      .
+      .
+      </form>
+      ```
+      
+    + 多数情况下被用到的表单标签是输入标签（[\<input\>](#no-jump)）。
+    
+    + 输入类型是由类型属性（type）定义的。
+    
+  <a name="13.2"></a>
+  - [13.2](#13.2) **HTML 表单 - 文本域（Text Fields）**
+  
+    📜 文本域通过 [\<input type="text"\>](#no-jump) 标签来设定，当用户要在表单中键入字母、数字等内容时，就会用到文本域。
+    
+    ```sass
+    <form>
+        First name: <input type="text"><br>
+        Last  name: <input type="text">
+    </form>
+    ```
+    
+  <a name="13.3"></a>
+  - [13.3](#13.3) **HTML 表单 - 密码字段**
+  
+    📜 密码字段通过标签 [\<input type="password"\>](#no-jump) 来定义:
+    
+    ```sass
+    <form>
+        Password: <input type="password">
+    </form>
+    ```
+    
+  <a name="13.4"></a>
+  - [13.4](#13.4) **HTML 表单 - 单选按钮（Radio Buttons）**
+  
+    📜 [\<input type="radio"\>](#no-jump) 标签定义了表单单选框选项：
+    
+    ```sass
+    <form>
+        <input type="radio" name="sex">男<br>
+        <input type="radio" name="sex">女
+    </form>
+    ```
+    
+  <a name="13.5"></a>
+  - [13.5](#13.5) **HTML 表单 - 复选框（Checkboxes）**
+  
+    📜 [\<input type="checkbox"\>](#no-jump) 定义了复选框，用户需要从若干给定的选择中选取一个或若干选项：
+    
+    ```sass
+    <form>
+        <p>我的兴趣：</p>
+        <input type="checkbox" name="interest" value="basketball">篮球<br>
+        <input type="checkbox" name="interest" value="football">足球
+    </form>
+    ```
+    
+  <a name="13.6"></a>
+  - [13.6](#13.6) **HTML 表单 - 提交按钮（Submit Button）**
+  
+    📜 [\<input type="submit"\>](#no-jump) 定义了提交按钮。当用户单击确认按钮时，表单的内容会被传送到另一个文件。表单的动作属性 [action](#no-jump) 定义了目的文件的文件名。由动作属性定义的这个文件通常会对接收到的输入数据进行相关的处理。
+    
+    ```sass
+    <form name="input" action="html_form_action.php" method="get">
+        内容: <input type="text" name="content">
+        <input type="submit" value="发送">
+    </form>
+    ```
+    
+  <a name="13.7"></a>
+  - [13.7](#13.7) **HTML 表单标签**
+    
+    |标签|描述|
+    |:---|:------|
+    |[\<form\>](#no-jump)|定义供用户输入的表单|
+    |[\<input\>](#no-jump)|定义输入域|
+    |[\<textarea\>](#no-jump)|定义文本域 (一个多行的输入控件)|
+    |[\<label\>](#no-jump)|定义了 [\<input\>](#no-jump) 元素的标签，一般为输入标题|
+    |[\<fieldset\>](#no-jump)|定义了一组相关的表单元素，并使用外框包含起来|
+    |[\<legend\>](#no-jump)|定义了 [\<fieldset\>](#no-jump) 元素的标题|
+    |[\<select\>](#no-jump)|定义了下拉选项列表|
+    |[\<optgroup\>](#no-jump)|定义选项组|
+    |[\<option\>](#no-jump)|定义下拉列表中的选项|
+    |[\<button\>](#no-jump)|定义一个点击按钮|
+    |[\<datalist\>](#no-jump)|指定一个预先定义的输入控件选项列表|
+    |[\<keygen\>](#no-jump)|定义了表单的密钥对生成器字段|
+    |[\<output\>](#no-jump)|定义一个计算结果|
+    
+**[⬆ back to top](#目录)** 

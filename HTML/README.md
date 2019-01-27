@@ -860,3 +860,46 @@
     |[\<output\>](#no-jump)|定义一个计算结果|
     
 **[⬆ back to top](#目录)** 
+
+## HTML 框架
+
+  <a name="14.1"></a>
+  - [14.1](#14.1) **HTML 框架语法**
+  
+    + 通过使用框架，你可以在同一个浏览器窗口中显示不止一个页面。
+    
+    + HTML 框架通过标签 [\<iframe\>](#no-jump) 定义，其中 [URL](#no-jump) 指向不同的网页：
+    
+      ```sass
+      <iframe src="URL"></iframe>
+      ```
+      
+  <a name="14.2"></a>
+  - [14.2](#14.2) **HTML 框架 -- 移除边框**
+  
+    🔲 [frameborder](#no-jump) 属性用于定义 [iframe](#no-jump) 表示是否显示边框。设置属性值为 "0" 移除 [iframe](#no-jump) 的边框：
+    
+    ```sass
+    <iframe src="URL" frameborder="0"></iframe>
+    ```
+    
+  <a name="14.3"></a>
+  - [14.3](#14.3) **HTML 框架 -- 设置高度与宽度**
+  
+    🔲 [height](#no-jump) 和 [width](#no-jump) 属性用来定义 [iframe](#no-jump) 标签的高度与宽度。属性默认以像素为单位, 但是你可以指定其按比例显示 (如："80%")：
+    
+    ```sass
+    <iframe src="URL" frameborder="0" width="200" height="200"></iframe>
+    ```
+    
+  <a name="14.4"></a>
+  - [14.4](#14.4) **HTML 框架 -- 使用 `iframe` 来显示目标链接页面**
+  
+    🔲  [iframe](#no-jump) 可以显示一个目标链接的页面，目标链接的属性必须使用  [iframe](#no-jump) 的属性，如下实例：
+    
+    ```sass
+    <iframe src="https://github.com/fmw666/" name="iframe_a"></iframe>
+    <p><a href=http://fanyi.youdao.com/" target="iframe_a">打开有道翻译</a></p>
+    ```
+    
+**[⬆ back to top](#目录)**

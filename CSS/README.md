@@ -16,9 +16,10 @@
 
 <img src="pics/cute.jpg" width="100">
 
-🏷前端学习参考网站
- - [RUNOOB](http://www.runoob.com/)
- - [W3school](http://www.w3school.com.cn/index.html)
+🏷CSS学习参考网站
+ - [30秒 CSS 中文版](http://caibaojian.com/30-seconds-of-css/)
+ - [HTML中文网--CSS 教程手册](https://www.html.cn/book/css/)
+ - [CSS 中文参考文档](http://css.cuishifeng.cn/)
 
 ## 目录
 

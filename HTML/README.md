@@ -36,7 +36,6 @@
 1. [HTML 布局](#HTML-布局)
 1. [HTML 表单](#HTML-表单)
 1. [HTML 框架](#HTML-框架)
-1. [HTML 颜色](#HTML-颜色)
 1. [HTML 脚本](#HTML-脚本)
 1. [HTML 字符实体](#HTML-字符实体)
 1. [HTML URL](#HTML-URL)
@@ -901,5 +900,65 @@
     <iframe src="https://github.com/fmw666/" name="iframe_a"></iframe>
     <p><a href=http://fanyi.youdao.com/" target="iframe_a">打开有道翻译</a></p>
     ```
+    
+**[⬆ back to top](#目录)**
+
+## HTML 脚本
+
+  <a name="15.1"></a>
+  - [15.1](#15.1) **HTML `<script>` 标签**
+  
+    + [\<script\>](#no-jump) 标签用于定义客户端脚本，比如 [JavaScript](#no-jump)。
+    
+    + [\<script\>](#no-jump) 元素既可包含脚本语句，也可通过 [src](#no-jump) 属性指向外部脚本文件。
+    
+      ```sass
+      <script>
+      document.write("Hello World!");
+      </script>
+      ```
+      
+  <a name="15.2"></a>
+  - [15.2](#15.2) **HTML `<noscript>` 标签**
+  
+    + [\<noscript\>](#no-jump) 标签提供无法使用脚本时的替代内容，比方在浏览器禁用脚本时，或浏览器不支持客户端脚本时。
+    
+    + [\<noscript\>](#no-jump) 元素可包含普通 [HTML](#no-jump) 页面的 [body](#no-jump) 元素中能够找到的所有元素。
+
+      ```sass
+      <script>
+      document.write("Hello World!")
+      </script>
+      <noscript>抱歉，你的浏览器不支持 JavaScript!</noscript>
+      ```
+    
+  <a name="15.3"></a>
+  - [15.3](#15.3) **JavaScript 体验**
+  
+    + [JavaScript](#no-jump) 可以直接在 [HTML](#no-jump) 输出：
+    
+      ```sass
+      <iframe src="URL" frameborder="0" width="200" height="200"></iframe>
+      ```
+      
+    + [JavaScript](#no-jump) 事件响应：
+    
+      ```sass
+      <button type="button" onclick="myFunction()">点我！</button>
+      ```
+      
+    + [JavaScript](#no-jump) 处理 [HTML](#no-jump) 样式：
+    
+      ```sass
+      document.getElementById("demo").style.color="#ff0000";
+      ```
+  
+  <a name="15.4"></a>
+  - [15.4](#15.4) **HTML 脚本标签**
+  
+    |标签|描述|
+    |:---|:------|
+    |[\<script\>](#no-jump)|定义了客户端脚本|
+    |[\<noscript\>](#no-jump)|定义了不支持脚本浏览器输出的文本|
     
 **[⬆ back to top](#目录)**

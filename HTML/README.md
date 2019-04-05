@@ -999,19 +999,21 @@
   
     |显示结果|描述|实体名称|实体编号|
     |:---|:------|:------|:------|
-    |&nbsp;|空格|&amp;nbsp;|&#160;|
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
+    |&nbsp;|空格|&amp;nbsp;|&amp;#160;|
+    |&lt;|小于号|&amp;lt;|&amp;#60;|
+    |&gt;|大于号|&amp;gt;|&amp;#62;|
+    |&amp;|和号|&amp;amp;|&amp;#38;|
+    |&quot;|引号|&amp;quot;|&amp;#34;|
+    |&apos;|撇号|&amp;apos; (IE不支持)|&amp;#39;|
+    |&cent;|分|&amp;cent;|&amp;#162;|
+    |&pound;|镑|&amp;pound;|&amp;#163;|
+    |&yen;|人民币/日元|&amp;yen;|&amp;#165;|
+    |&euro;|欧元|&amp;euro;|&amp;#8364;|
+    |&sect;|小节|&amp;sect;|&amp;#167;|
+    |&copy;|版权|&amp;copy;|&amp;#169;|
+    |&reg;|注册商标|&amp;reg;|&amp;#174;|
+    |&trade;|商标|&amp;trade;|&amp;#8482;|
+    |&times;|乘号|&amp;times;|&amp;#215;|
+    |&divide;|除号|&amp;divide;|&amp;#247;|
+
+**[⬆ back to top](#目录)**

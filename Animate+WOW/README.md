@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/fmw666/Front-end/blob/master/HTML/README.md#head">HTML</a> 
   / 
-  CSS
+  <a href="https://github.com/fmw666/Front-end/blob/master/CSS/README.md#head">CSS</a>
   / 
   <a href="https://github.com/fmw666/Front-end/blob/master/JavaScript/README.md#head">JavaScript</a> 
   /
@@ -40,6 +40,8 @@
  - [官方演示网站](https://www.delac.io/wow/)
  - [官方 GitHub](https://github.com/matthieua/WOW)
  - [wow.js 下载](https://raw.githubusercontent.com/matthieua/WOW/master/dist/wow.js)
+ 
+<br/> 
 
 ## 引入样式
 要在网站中使用 [animate.css](#welcome)，只需将样式表放入 [html](#welcome) 的 [\<head\>](#welcome) 标签中。

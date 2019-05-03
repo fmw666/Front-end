@@ -96,3 +96,7 @@
  -->
 <section class="wow slideInRight" data-wow-offset="10" data-wow-iteration="10"></section>
 ```
+
+## demo示例
+
+<img src="images/demo.gif" width="1000">

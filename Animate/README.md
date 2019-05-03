@@ -48,7 +48,7 @@
 
 要使用 [wow.js](#welcome)，只需在 [html](#welcome) 底部引入 js 文件，并作 `WOW` 的初始化。
 
-```
+```html
 <!-- 引入WOW的js文件 -->
 <script type="text/javascript" src="js/wow.js"></script>
 <!-- 把WOW插件初始化 -->

@@ -60,7 +60,7 @@
 ## 动画类型
 要为元素设置动画，直接在元素的 [class](#welcome) 中添加需要的 [animate](#welcome) 动画类型即可。也可以在 [class](#welcome) 中包含 [infinite](#welcome) 用以设置动画的无限循环。可以添加的 [class](#welcome) 动画有：
 
-|class 名称|
+|class 名称||||
 |:---------|:--|:--|:--|
 |bounce|flash|pulse|rubberBand|
 |shake|headShake|swing|tada|
@@ -85,6 +85,8 @@
 
 ## 使用方法
 ```html
-<section class="wow slideInLeft" data-wow-duration="2s"  data-wow-delay="5s"></section>
+<!-- data-wow-duration：动画执行持续时间（默认单位s）. data-wow-delay：动画执行延迟时间（默认单位s） -->
+<section class="wow slideInLeft" data-wow-duration="2s" data-wow-delay="5s"></section>
+<!-- data-wow-offset：触发动画时元素距离底部多少像素（默认为0）. data-wow-iteration：动画执行次数 -->
 <section class="wow slideInRight" data-wow-offset="10" data-wow-iteration="10"></section>
 ```

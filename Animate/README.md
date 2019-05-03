@@ -30,3 +30,12 @@
  - [官方动画演示网站](https://daneden.github.io/animate.css/)
  - [官方 GitHub](https://github.com/daneden/animate.css)
  - [animate.css 下载](https://raw.githubusercontent.com/daneden/animate.css/master/animate.css)
+
+## 引入样式
+要在网站中使用 [animate.css](#welcome)，只需将样式表放入 [html](#welcome) 的 [\<head\>](#welcome) 标签中。
+
+```html
+<head>
+    <link rel="stylesheet" href="animate.min.css">
+</head>
+```

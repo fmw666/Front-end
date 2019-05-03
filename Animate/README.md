@@ -12,12 +12,12 @@
   / 
   <a href="#">jQuery</a>
   /
-  Animate+wow
+  Animate+WOW
 </div>
 
 <br>
 
-# Animate+wow 指南
+# Animate+WOW 指南
 
 >> 文档为作者本人所有，如需要转载请先[联系我](https://github.com/fmw666)，⚡特此说明！
 <hr/>

@@ -12,7 +12,7 @@
   / 
   <a href="#">jQuery</a>
   /
-  <a href="https://github.com/fmw666/Front-end/blob/master/Animate/README.md#head">Animate%2BWOW/README.md#head</a>
+  <a href="https://github.com/fmw666/Front-end/blob/master/Animate%2BWOW/README.md#head">Animate+WOW</a>
 </div>
 
 <br>

@@ -37,32 +37,23 @@
 
 ## 前端三大基础之 HTML、CSS、JavaScript 
 
-+ [HTML(HyperText Markup Language)](HTML)--超文本标记语言
++ **[HTML(HyperText Markup Language)](HTML/README.md#head)--超文本标记语言**
   - 超文本标记语言是一种用于创建网页的标准标记语言。
   - HTML 使用标记标签来描述网页。
   - HTML 文档包含了HTML 标签及文本内容。
   - HTML 标签是由尖括号包围的关键词，比如 `<html>`
   - HTML 标签通常是成对出现的，比如 `<b>` 和 `</b>`
 
-+ [CSS(Cascading Style Sheets)](CSS)--层叠样式表
++ **[CSS(Cascading Style Sheets)](CSS/README.md#head)--层叠样式表**
 
-+ [JavaScript](JavaScript)--网页脚本语言
++ **[JavaScript](JavaScript/README.md#head)--网页脚本语言**
 
-### 使用编译器新建第一个 html文档
+## jQuery
 
-+ 在要新建 html 文档的文件夹里打开 [VS code](#no-jump) ，点击新建文件
-+ 输入文件名`index.html`，`index`为文档名，根据用户喜好设定。`html`为后缀名，也可以设为`htm`
-+ 在文件里输入下面内容：
-  ```html
-  <!DOCTYPE html>
-  <html>
-  <head>
-      <meta charset="utf-8" />
-      <title>网页名字</title>
-  </head>
-  <body>
-      这是我的第一个网页
-  </body>
-  </html>
-  ```
-+ 复制文件路径，在网页url中打开。
+描述
+
+## 语义化前端框架 Semantic-UI
+
+描述
+
+...

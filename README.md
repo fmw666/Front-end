@@ -29,7 +29,7 @@
     <br>
     <img src="https://github.com/fmw666/my-image-file/blob/master/images/girl/1.jpg" width="200">
     <br><br><br>
-    &emsp;&emsp;&emsp;&emsp;——————————————————
+    &emsp;&emsp;&emsp;——————————————————
     <br>
 </div>
 <br>

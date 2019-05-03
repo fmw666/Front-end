@@ -27,7 +27,7 @@
     <span><li><i>为了方便起见，每个文档头部均设立了导航栏。</i></li></span>
     <span><li><i>指南仅供参考，代码片段亲自去尝试效果更佳。</i></li></span>
     <br>
-    <img src="https://github.com/fmw666/my-image-file/blob/master/images/girl/1.jpg" width="600">
+    <img src="https://github.com/fmw666/my-image-file/blob/master/images/girl/1.jpg" width="400">
 </div>
 <br>
 

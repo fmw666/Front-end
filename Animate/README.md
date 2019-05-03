@@ -99,4 +99,4 @@
 
 ## demo示例
 
-<img src="images/demo.gif" width="1000">
+<img src="pics/demo.gif" width="1000">

@@ -56,3 +56,29 @@
     new WOW().init();
 </script>
 ```
+
+## 动画类型
+要为元素设置动画，直接在元素的 [class](#welcome) 中添加需要的 [animate](#welcome) 动画类型即可。也可以包含 [infinite](#welcome) 无限循环的 [class](#welcome)。可以添加的 [class](#welcome) 动画有：
+
+|class 名称||||
+|:---------|:--|:--|:--|
+|bounce|flash|pulse|rubberBand|
+|shake|headShake|swing|tada|
+|wobble|jello|bounceIn|bounceInDown|
+|bounceInLeft|bounceInRight|bounceInUp|bounceOut|
+|bounceOutDown|bounceOutLeft|bounceOutRight|bounceOutUp|
+|fadeIn|fadeInDown|fadeInDownBig|fadeInLeft|
+|fadeInLeftBig|fadeInRight|fadeInRightBig|fadeInUp|
+|fadeInUpBig|fadeOut|fadeOutDown|fadeOutDownBig|
+|fadeOutLeft|fadeOutLeftBig|fadeOutRight|fadeOutRightBig|
+|fadeOutUp|fadeOutUpBig|flipInX|flipInY|
+|flipOutX|flipOutY|lightSpeedIn|lightSpeedOut|
+|rotateIn|rotateInDownLeft|rotateInDownRight|rotateInUpLeft|
+|rotateInUpRight|rotateOut|rotateOutDownLeft|rotateOutDownRight|
+|rotateOutUpLeft|rotateOutUpRight|hinge|jackInTheBox|
+|rollIn|rollOut|zoomIn|zoomInDown|
+|zoomInLeft|zoomInRight|zoomInUp|zoomOut|
+|zoomOutDown|zoomOutLeft|zoomOutRight|zoomOutUp|
+|slideInDown|slideInLeft|slideInRight|slideInUp|
+|slideOutDown|slideOutLeft|slideOutRight|slideOutUp|
+|heartBeat|

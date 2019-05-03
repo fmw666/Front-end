@@ -2,15 +2,17 @@
   <h2><a name="head"></a>📖</h2>
 </div>  
 <div align="center">
-  <a href="https://github.com/fmw666/Front-end/blob/master/HTML/README.md#head">HTML(在更)</a> 
+  <a href="https://github.com/fmw666/Front-end/blob/master/HTML/README.md#head">HTML</a> 
   / 
-  <a href="https://github.com/fmw666/Front-end/blob/master/CSS/README.md#head">CSS(在更)</a> 
+  CSS
   / 
-  <a href="https://github.com/fmw666/Front-end/blob/master/JavaScript/README.md#head">JavaScript(在更)</a> 
+  <a href="https://github.com/fmw666/Front-end/blob/master/JavaScript/README.md#head">JavaScript</a> 
+  /
+  <a href="https://github.com/fmw666/Front-end/blob/master/Semantic-UI/README.md#head">Semantic-UI</a>
+  /
+  <a href="https://github.com/fmw666/Front-end/blob/master/jQuery/README.md#head">jQuery</a>
   / 
-  <a href="#">BootStrap</a> 
-  / 
-  <a href="#">jQuery</a>
+  <a href="https://github.com/fmw666/Front-end/blob/master/BootStrap/README.md#head">BootStrap</a> 
   /
   Animate+WOW
 </div>
@@ -25,12 +27,14 @@
 *"Animate.css--一款强大的预设css3动画库，WOW.js--能让页面滚动时显示动画,使页面更有趣。"*
 
 <img src="https://github.com/fmw666/my-image-file/blob/master/images/gif/2.gif" width="100">
+<br/>
 
 🏷Animate 相关网站
  - [官方动画演示网站](https://daneden.github.io/animate.css/)
  - [官方 GitHub](https://github.com/daneden/animate.css)
  - [animate.css 下载](https://raw.githubusercontent.com/daneden/animate.css/master/animate.css)
  
+<br/> 
 🏷WOW 相关网站
  - [官方演示网站](https://www.delac.io/wow/)
  - [官方 GitHub](https://github.com/matthieua/WOW)

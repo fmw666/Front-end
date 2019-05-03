@@ -35,7 +35,7 @@
 <br>
 
 
-## 📑前端三大基础HTML、CSS、JavaScript 
+## 前端三大基础之 HTML、CSS、JavaScript 
 
 + [HTML(HyperText Markup Language)](HTML)--超文本标记语言
   - 超文本标记语言是一种用于创建网页的标准标记语言。
@@ -48,7 +48,7 @@
 
 + [JavaScript](JavaScript)--网页脚本语言
 
-***💻使用编译器新建第一个 html文档***
+### 使用编译器新建第一个 html文档
 
 + 在要新建 html 文档的文件夹里打开 [VS code](#no-jump) ，点击新建文件
 + 输入文件名`index.html`，`index`为文档名，根据用户喜好设定。`html`为后缀名，也可以设为`htm`

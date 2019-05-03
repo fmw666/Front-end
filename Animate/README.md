@@ -17,4 +17,16 @@
 
 <br>
 
-# haha
+# Animate 指南
+
+>> 文档为作者本人所有，如需要转载请先[联系我](https://github.com/fmw666)，⚡特此说明！
+<hr/>
+
+*"Animate.css--一款强大的预设css3动画库"*
+
+<img src="pics/cute.jpg" width="100">
+
+🏷Animate 相关网站
+ - [官方动画演示网站](https://daneden.github.io/animate.css/)
+ - [官方 GitHub](https://github.com/daneden/animate.css)
+ - [animate.css 下载](https://raw.githubusercontent.com/daneden/animate.css/master/animate.css)

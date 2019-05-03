@@ -22,7 +22,7 @@
 <div align="center">
     <h1>一份高大上的--前端（Front-end）手册</h1>
     <br>
-    <span><i><b>温馨提示~</b></i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>
+    <span><i><b>温馨提示~</b></i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span><br>
     <span>🏷 <a href="#welcome"><i>为了方便起见，每个文档头部均设立了导航栏。</i></a></span><br>
     <span>🏷 <a href="#welcome"><i>指南仅供参考，代码片段亲自去尝试效果更佳。</i></a></span>
 </div>

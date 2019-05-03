@@ -2,7 +2,19 @@
   <h2><a name="head"></a>📖</h2>
 </div>  
 <div align="center">
-  <a href="https://github.com/fmw666/Front-end/blob/master/HTML/README.md#head">HTML(在更)</a> / CSS(在更) / <a href="https://github.com/fmw666/Front-end/blob/master/JavaScript/README.md#head">JavaScript(在更)</a> / <a href="#">BootStrap</a> / <a href="#">jQuery</a>
+  <a href="https://github.com/fmw666/Front-end/blob/master/HTML/README.md#head">HTML</a> 
+  / 
+  CSS
+  / 
+  <a href="https://github.com/fmw666/Front-end/blob/master/JavaScript/README.md#head">JavaScript</a> 
+  /
+  <a href="https://github.com/fmw666/Front-end/blob/master/Semantic-UI/README.md#head">Semantic-UI</a>
+  /
+  <a href="https://github.com/fmw666/Front-end/blob/master/jQuery/README.md#head">jQuery</a>
+  / 
+  <a href="https://github.com/fmw666/Front-end/blob/master/BootStrap/README.md#head">BootStrap</a> 
+  /
+  <a href="https://github.com/fmw666/Front-end/blob/master/Animate%2BWOW/README.md#head">Animate+WOW</a>
 </div>
 
 <br>
@@ -14,7 +26,7 @@
 
 *"CSS(Cascading Style Sheets)--层叠样式表，一种用来表现 HTML 或 XML 等文件样式的计算机语言。"*
 
-<img src="pics/cute.jpg" width="100">
+<img src="../HTML/pics/cute.jpg" width="100">
 
 🏷CSS学习参考网站
  - [30秒 CSS 中文版](http://caibaojian.com/30-seconds-of-css/)

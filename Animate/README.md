@@ -85,8 +85,14 @@
 
 ## 使用方法
 ```html
-<!-- data-wow-duration：动画执行持续时间（默认单位s）. data-wow-delay：动画执行延迟时间（默认单位s） -->
+<!-- 
+    data-wow-duration：动画执行持续时间（默认单位s）
+    data-wow-delay：动画执行延迟时间（默认单位s）
+ -->
 <section class="wow slideInLeft" data-wow-duration="2s" data-wow-delay="5s"></section>
-<!-- data-wow-offset：触发动画时元素距离底部多少像素（默认为0）. data-wow-iteration：动画执行次数 -->
+<!-- 
+    data-wow-offset：触发动画时元素距离底部多少像素（默认为0px） 
+    data-wow-iteration：动画执行次数（默认为1次）
+ -->
 <section class="wow slideInRight" data-wow-offset="10" data-wow-iteration="10"></section>
 ```

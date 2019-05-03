@@ -24,7 +24,7 @@
 
 *"Animate.css--一款强大的预设css3动画库"*
 
-<img src="https://github.com/fmw666/my-image-file/blob/master/images/cat/cat5.png" width="100">
+<img src="https://github.com/fmw666/my-image-file/blob/master/images/girl/4.gif" width="100">
 
 🏷Animate 相关网站
  - [官方动画演示网站](https://daneden.github.io/animate.css/)

@@ -36,7 +36,7 @@
  
 <br/> 
 
-🏷WOW 相关网站
+🔖WOW 相关网站
  - [官方演示网站](https://www.delac.io/wow/)
  - [官方 GitHub](https://github.com/matthieua/WOW)
  - [wow.js 下载](https://raw.githubusercontent.com/matthieua/WOW/master/dist/wow.js)

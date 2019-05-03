@@ -2,11 +2,22 @@
   <h2><a name="head"></a>📖</h2>
 </div>  
 <div align="center">
-  HTML(在更) / <a href="https://github.com/fmw666/Front-end/blob/master/CSS/README.md#head">CSS(在更)</a> / <a href="https://github.com/fmw666/Front-end/blob/master/JavaScript/README.md#head">JavaScript(在更)</a> / <a href="#">BootStrap</a> / <a href="#">jQuery</a>
+  HTML
+  / 
+  <a href="https://github.com/fmw666/Front-end/blob/master/CSS/README.md#head">CSS</a> 
+  / 
+  <a href="https://github.com/fmw666/Front-end/blob/master/JavaScript/README.md#head">JavaScript</a> 
+  /
+  <a href="https://github.com/fmw666/Front-end/blob/master/Semantic-UI/README.md#head">Semantic-UI</a>
+  /
+  <a href="https://github.com/fmw666/Front-end/blob/master/jQuery/README.md#head">jQuery</a>
+  / 
+  <a href="https://github.com/fmw666/Front-end/blob/master/BootStrap/README.md#head">BootStrap</a> 
+  /
+  <a href="https://github.com/fmw666/Front-end/blob/master/Animate%2BWOW/README.md#head">Animate+WOW</a>
 </div>
 
 <br>
-
 # HTML 指南
 
 >> 文档为本人所有，如需要转载请先[联系我](https://github.com/fmw666)，⚡特此说明！

@@ -35,7 +35,7 @@
 <br>
 
 
-## 前端三大基础之 HTML、CSS、JavaScript 
+## *前端三大基础之 HTML、CSS、JavaScript* 
 
 + **[HTML(HyperText Markup Language)](HTML/README.md#head)--超文本标记语言**
   - 超文本标记语言是一种用于创建网页的标准标记语言。
@@ -48,11 +48,11 @@
 
 + **[JavaScript](JavaScript/README.md#head)--网页脚本语言**
 
-## jQuery
+## *jQuery*
 
 描述
 
-## 语义化前端框架 Semantic-UI
+## *语义化前端框架 Semantic-UI*
 
 描述
 

@@ -12,7 +12,7 @@
   /
   jQuery
   / 
-  <a href="https://github.com/fmw666/Front-end/blob/master/BootStrap/README.md#head">BootStrap</a> 
+  <a href="https://github.com/fmw666/Front-end/blob/master/BootStrap/README.md#head">Bootstrap</a> 
   /
   <a href="https://github.com/fmw666/Front-end/blob/master/Animate%2BWOW/README.md#head">Animate+WOW</a>
 </div>

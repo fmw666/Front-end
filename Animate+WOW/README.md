@@ -12,7 +12,7 @@
   /
   <a href="https://github.com/fmw666/Front-end/blob/master/jQuery/README.md#head">jQuery</a>
   / 
-  <a href="https://github.com/fmw666/Front-end/blob/master/BootStrap/README.md#head">Bootstrap</a> 
+  <a href="https://github.com/fmw666/Front-end/blob/master/Bootstrap/README.md#head">Bootstrap</a> 
   /
   Animate+WOW
 </div>

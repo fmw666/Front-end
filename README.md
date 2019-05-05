@@ -44,7 +44,6 @@
         <li>HTML 标签通常是成对出现的，比如 &lt;b&gt; 和 &lt;/b&gt;</li>
     <h3><a href="CSS/README.md#head">CSS(Cascading Style Sheets)</a>--层叠样式表</h3>
     <h3><a href="JavaScript/README.md#head">JavaScript</a>--网页脚本语言</h3>
-  
     <br>.
     <br>.
     <br>.
@@ -54,8 +53,7 @@
     <h2><i>jQuery</i></h2>
     <ol><a href="jQuery/README.md#head">jQuery</a> 是一个快速、简洁的 JavaScript 框架</ol>
     <ol><a href="jQuery/README.md#head">jQuery</a> 设计的宗旨是 “write Less，Do More”，即倡导写更少的代码，做更多的事情。</ol>
-    <ol><a href="jQuery/README.md#head">jQuery</a> 能优化 HTML 文档操作、事件处理、动画设计和 Ajax 交互。</ol>
-  
+    <ol><a href="jQuery/README.md#head">jQuery</a> 能优化 HTML 文档操作、事件处理、动画设计和 Ajax 交互。</ol> 
     <br>.
     <br>.
     <br>.
@@ -65,7 +63,6 @@
     <h2><i>语义化前端框架 Semantic-UI</i></h2>
     <li>Semantic-UI 是为主题设计的 UI 框架。</li>
     <li>Semantic-UI 允许开发人员快速构建漂亮的网站，简洁的 HTML，直观的 javascript 和简化的调试，有助于使前端开发成为一种愉快的体验。语义是响应性设计，允许您的网站在多个设备上扩展。</li>
-  
     <br>.
     <br>.
     <br>.

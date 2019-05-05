@@ -36,14 +36,12 @@
 
 <div align="center">
     <h2><i>前端三大基础之 HTML、CSS、JavaScrip</i></h2>
-    <h3><a href="HTML/README.md#head">HTML(HyperText Markup Language)</a>--超文本标记语言</h3>
-    <ul>    
+    <h3><a href="HTML/README.md#head">HTML(HyperText Markup Language)</a>--超文本标记语言</h3>   
         <li>超文本标记语言是一种用于创建网页的标准标记语言。</li>
         <li>HTML 使用标记标签来描述网页。</li> 
         <li>HTML 文档包含了HTML 标签及文本内容。</li>
-        <li>HTML 标签是由尖括号包围的关键词，比如 <xmp><html></xmp><ol>
+        <li>HTML 标签是由尖括号包围的关键词，比如 <xmp><html></xmp></li>
         <li>HTML 标签通常是成对出现的，比如 <xmp><b></xmp> 和 <xmp></b></xmp></li>
-    </ul>
     <h3><a href="CSS/README.md#head">CSS(Cascading Style Sheets)</a>--层叠样式表</h3>
     <h3><a href="JavaScript/README.md#head">JavaScript</a>--网页脚本语言</h3>
 </div>

@@ -53,8 +53,11 @@
     <ol><a href="jQuery/README.md#head">jQuery</a> 能优化 HTML 文档操作、事件处理、动画设计和 Ajax 交互。</ol>
 </div>
 
-## *语义化前端框架 Semantic-UI*
-
-描述
+<div align="center">
+    <h2><i>语义化前端框架 Semantic-UI</i></h2>
+    <ol><a href="jQuery/README.md#head">jQuery</a> 是一个快速、简洁的 JavaScript 框架</ol>
+    <ol><a href="jQuery/README.md#head">jQuery</a> 设计的宗旨是 “write Less，Do More”，即倡导写更少的代码，做更多的事情。</ol>
+    <ol><a href="jQuery/README.md#head">jQuery</a> 能优化 HTML 文档操作、事件处理、动画设计和 Ajax 交互。</ol>
+</div>
 
 ...

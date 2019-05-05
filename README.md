@@ -34,25 +34,23 @@
 </div>
 <br>
 
-
-## *前端三大基础之 HTML、CSS、JavaScript* 
-
-+ **[HTML(HyperText Markup Language)](HTML/README.md#head)--超文本标记语言**
-  - 超文本标记语言是一种用于创建网页的标准标记语言。
-  - HTML 使用标记标签来描述网页。
-  - HTML 文档包含了HTML 标签及文本内容。
-  - HTML 标签是由尖括号包围的关键词，比如 `<html>`
-  - HTML 标签通常是成对出现的，比如 `<b>` 和 `</b>`
-
-+ **[CSS(Cascading Style Sheets)](CSS/README.md#head)--层叠样式表**
-
-+ **[JavaScript](JavaScript/README.md#head)--网页脚本语言**
+<div align="center">
+    <h2><i>前端三大基础之 HTML、CSS、JavaScrip</i></h2>
+    <li><h4><a href="HTML/README.md#head">HTML(HyperText Markup Language)</a>--超文本标记语言</h></li>  
+        <ol>超文本标记语言是一种用于创建网页的标准标记语言。</ol>
+        <ol>HTML 使用标记标签来描述网页。</ol> 
+        <ol>HTML 文档包含了HTML 标签及文本内容。</ol>
+        <ol>HTML 标签是由尖括号包围的关键词，比如 <pre><html></pre><ol>
+        <ol>HTML 标签通常是成对出现的，比如 <pre><b></pre> 和 <pre></b></pre></ol>
+    <li><h4><a href="CSS/README.md#head">CSS(Cascading Style Sheets)</a>--层叠样式表</h></li>  
+    <li><h4><a href="JavaScript/README.md#head">JavaScript</a>--网页脚本语言</h></li>  
+</div>
 
 <div align="center">
     <h2><i>jQuery</i></h2>
-    <li><a href="jQuery/README.md#head">jQuery</a> 是一个快速、简洁的 JavaScript 框架</li>
-    <li><a href="jQuery/README.md#head">jQuery</a> 设计的宗旨是 “write Less，Do More”，即倡导写更少的代码，做更多的事情。</li>
-    <li><a href="jQuery/README.md#head">jQuery</a> 能优化 HTML 文档操作、事件处理、动画设计和 Ajax 交互。</li>
+    <ol><a href="jQuery/README.md#head">jQuery</a> 是一个快速、简洁的 JavaScript 框架</ol>
+    <ol><a href="jQuery/README.md#head">jQuery</a> 设计的宗旨是 “write Less，Do More”，即倡导写更少的代码，做更多的事情。</ol>
+    <ol><a href="jQuery/README.md#head">jQuery</a> 能优化 HTML 文档操作、事件处理、动画设计和 Ajax 交互。</ol>
 </div>
 
 ## *语义化前端框架 Semantic-UI*

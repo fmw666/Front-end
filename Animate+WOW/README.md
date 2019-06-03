@@ -106,7 +106,7 @@
 
 ## demo示例
 
-<img src="pics/demo.gif" width="1000">
+<img src="pics/demo.gif" width="1000"><br>
 
 🔍 其他用此动画效果网站（别家网站，慎重访问）：
 

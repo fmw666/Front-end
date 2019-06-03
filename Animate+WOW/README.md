@@ -107,3 +107,9 @@
 ## demo示例
 
 <img src="pics/demo.gif" width="1000">
+
+🔍 其他用此动画效果网站（别家网站，慎重访问）：
+
++ [http://www.bushenfs.com/](http://www.bushenfs.com/)
+
++ [http://www.cdxslwl.com/](http://www.cdxslwl.com/)

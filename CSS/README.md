@@ -54,26 +54,37 @@
     + 🎲 这种方法非常方便，但是会令整个 html 文档杂乱无章，一个样式只能适用于一个标签元素。
     
   <a name="1.2"></a>
-  - [1.2](#1.2) **`<!DOCTYPE html>` 声明为 HTML5 文档**
+  - [1.2](#1.2) **全部样式嵌入到 `<style>` 元素**
   
-    + 🎲 [\<!DOCTYPE\>]((#no-jump)) 声明必须是 HTML 文档的第一行，位于 [\<html\>](#no-jump) 标签之前。
+    ```css
+    <head>
+		<title>style 元素嵌入样式</title>
+		<style>
+			...
+			h1 {
+				color: green;
+			}
+			...
+		</style>
+    </head>
+    ```
+        
+    + 📚 这种方式样式和标记能分开，但是最终它们还是在一个文件里。
     
-    + 🎲 向 HTML 文档添加 [\<!DOCTYPE\>](#no-jump) 声明，这样浏览器才能获知文档类型。
+    + 🎲 这种方式仅适用于一次性简单测试 demo 网页。
     
-    + 🎲 [\<!DOCTYPE\>](#no-jump) 声明没有结束标签，并且对大小写不敏感。
-    
-    + 🎲 HTML5 中只有一种 [\<!DOCTYPE\>](#no-jump) 声明（在 HTML 4.01 中有三种），即：
-      ```sass
-      <!DOCTYPE html>
-      ```
+    + 🎲 这种方式并不提倡，因为会使代码页面冗余繁杂。
   
   <a name="1.3"></a>
-  - [1.3](#1.3) **`<html>` 元素是 HTML 页面的根元素**
+  - [1.3](#1.3) **使用 `<link>` 元素在 `<head>` 部分链接外部样式表文件**
   
-    + 🕹 [\<html\>](#no-jump) 与 [\</html\>](#no-jump) 标签限定了文档的开始点和结束点。
+	```css
+	<head>
+		<title>link 链接外部样式表文件</title>
+		<link rel="stylesheet" href="demo.css">
+	</head>
+	```
     
     + 🕹 它们之间是文档的头部和主体，即 [\<head\>](#no-jump) 和 [\<body\>](#no-jump) 标签里的内容。
     
-    <div align="center">
-      <img src="https://github.com/fmw666/Python/blob/master/pics/cute-fly-pink.png" width="150">
-    </div>
+    

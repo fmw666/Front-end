@@ -26,6 +26,7 @@
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span><br><br>
     <span><li><i>为了方便起见，每个文档头部均设立了导航栏。</i></li></span>
     <span><li><i>指南仅供参考，代码片段亲自去尝试效果更佳。</i></li></span>
+	<span><li><i>前端 英译 : Front-end ( repo 名 )</i></li></span>
     <br><br><br>
     <img src="https://github.com/fmw666/my-image-file/blob/master/images/gif/down.gif" width="35">
     <br><br><br>
@@ -33,18 +34,16 @@
 <br>
 
 <div align="center">
-    <h2><i>超文本标记语言 HTML</i></h2>
+    <h2><i><a href="HTML/README.md#head">超文本标记语言 HTML</a></i></h2>
       <li>HTML 全称 HyperText Markup Language。</li>
-      <li>超文本标记语言是一种用于创建网页的标准标记语言。</li>
+      <li>超文本标记语言 HTML 是一种用于创建网页的标准标记语言。</li>
       <li>HTML 使用标记标签来描述网页。</li> 
-      <li>HTML 文档包含了HTML 标签及文本内容。</li>
+      <li>HTML 文档包含了 HTML 标签及文本内容。</li>
       <li>HTML 标签是由尖括号包围的关键词，比如 &lt;html&gt;</li>
-      <li>HTML 标签通常是成对出现的，比如 &lt;b&gt; 和 &lt;/b&gt;<li>
-    <h3><a href="CSS/README.md#head">CSS(Cascading Style Sheets)</a>--层叠样式表</h3>
-    <h3><a href="JavaScript/README.md#head">JavaScript</a>--网页脚本语言</h3>
-    .<br>
-    .<br>
-    .
+      <li>HTML 标签通常是成对出现的，比如 &lt;b&gt; 和 &lt;/b&gt;</li>
+	.<br>
+	.<br>
+	.
 </div>
 
 <div align="center">

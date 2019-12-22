@@ -34,13 +34,18 @@
 <br>
 
 <div align="center">
-    <h2><i><a href="HTML/README.md#head">超文本标记语言 HTML</a></i></h2>
+    <h2><i>超文本标记语言 HTML</i></h2>
+	<div align="right">
+		<a href="HTML/README.md#head">Go ➡</a>
+	</div>
       <li>HTML 全称 HyperText Markup Language。</li>
       <li>超文本标记语言 HTML 是一种用于创建网页的标准标记语言。</li>
       <li>HTML 使用标记标签来描述网页。</li> 
       <li>HTML 文档包含了 HTML 标签及文本内容。</li>
       <li>HTML 标签是由尖括号包围的关键词，比如 &lt;html&gt;</li>
       <li>HTML 标签通常是成对出现的，比如 &lt;b&gt; 和 &lt;/b&gt;</li>
+	  <li>HTML 标签通常是成对出现的，比如 &lt;b&gt; 和 &lt;/b&gt;</li>
+	  <li>HTML 现常用版本：HTML5</li>
 	.<br>
 	.<br>
 	.
@@ -48,11 +53,10 @@
 
 <div align="center">
     <h2><i>层叠样式表 CSS</i></h2>
-      <li>CSS 全称 Cascading Style Sheets。</li>
-      <li>HTML 使用标记标签来描述网页。</li> 
-      <li>HTML 文档包含了HTML 标签及文本内容。</li>
-      <li>HTML 标签是由尖括号包围的关键词，比如 &lt;html&gt;</li>
-      <li>HTML 标签通常是成对出现的，比如 &lt;b&gt; 和 &lt;/b&gt;</li>
+      <div align="right">
+		<a href="CSS/README.md#head">Go ➡</a>
+	</div>
+	  <li>CSS 全称 Cascading Style Sheets。</li>
     .<br>
     .<br>
     .
@@ -60,11 +64,10 @@
 
 <div align="center">
   <h2><i>网页脚本语言 JavaScrip</i></h2>
-      <li>超文本标记语言是一种用于创建网页的标准标记语言。</li>
-      <li>HTML 使用标记标签来描述网页。</li> 
-      <li>HTML 文档包含了HTML 标签及文本内容。</li>
-      <li>HTML 标签是由尖括号包围的关键词，比如 &lt;html&gt;</li>
-      <li>HTML 标签通常是成对出现的，比如 &lt;b&gt; 和 &lt;/b&gt;</li>
+	<div align="right">
+		<a href="JavaScript/README.md#head">Go ➡</a>
+	</div>
+      <li></li>
     .<br>
     .<br>
     .
@@ -72,9 +75,12 @@
 
 <div align="center">
     <h2><i>jQuery</i></h2>
-    <ol><a href="jQuery/README.md#head">jQuery</a> 是一个快速、简洁的 JavaScript 框架</ol>
-    <ol><a href="jQuery/README.md#head">jQuery</a> 设计的宗旨是 “write Less，Do More”，即倡导写更少的代码，做更多的事情。</ol>
-    <ol><a href="jQuery/README.md#head">jQuery</a> 能优化 HTML 文档操作、事件处理、动画设计和 Ajax 交互。</ol> 
+	<div align="right">
+		<a href="jQuery/README.md#head">Go ➡</a>
+	</div>
+    <li>jQuery 是一个快速、简洁的 JavaScript 框架</li>
+    <li>jQuery 设计的宗旨是 “write Less，Do More”，即倡导写更少的代码，做更多的事情。</li>
+    <li>jQuery 能优化 HTML 文档操作、事件处理、动画设计和 Ajax 交互。</li> 
     .<br>
     .<br>
     .
@@ -82,7 +88,10 @@
 
 <div align="center">
     <h2><i>语义化前端框架 Semantic-UI</i></h2>
-    <li>Semantic-UI 是为主题设计的 UI 框架。</li>
+    <div align="right">
+		<a href="Semantic-UI/README.md#head">Go ➡</a>
+	</div>
+	<li>Semantic-UI 是为主题设计的 UI 框架。</li>
     <li>Semantic-UI 允许开发人员快速构建漂亮的网站，简洁的 HTML，直观的 javascript 和简化的调试，有助于使前端开发成为一种愉快的体验。语义是响应性设计，允许您的网站在多个设备上扩展。</li>
     .<br>
     .<br>
@@ -91,6 +100,9 @@
 
 <div align="center">
     <h2><i>jQuery</i></h2>
+	<div align="right">
+		<a href="jQuery/README.md#head">Go ➡</a>
+	</div>
     <li>jQuery</li>
     .<br>
     .<br>
@@ -99,6 +111,9 @@
 
 <div align="center">
     <h2><i>BootStrap</i></h2>
+	<div align="right">
+		<a href="Bootstrap/README.md#head">Go ➡</a>
+	</div>
     <li>BootStrap</li>
     .<br>
     .<br>
@@ -107,6 +122,9 @@
 
 <div align="center">
     <h2><i>Animate+WOW</i></h2>
+	<div align="right">
+		<a href="Animate%2BWOW/README.md#head">Go ➡</a>
+	</div>
     <li>Animate+WOW</li>
     .<br>
     .<br>

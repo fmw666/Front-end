@@ -57,6 +57,8 @@
 		<a href="CSS/README.md#head">Go ➡</a>
 	</div>
 	  <li>CSS 全称 Cascading Style Sheets。</li>
+      <li>CSS 不是编程语言。</li>
+      <li>CSS 主要目的告诉游览器如何指定样式、布局等。</li>
     .<br>
     .<br>
     .

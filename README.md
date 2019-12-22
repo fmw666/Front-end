@@ -17,18 +17,18 @@
   <a href="https://github.com/fmw666/Front-end/blob/master/Animate%2BWOW/README.md#head">Animate+WOW</a>
 </div>
 
-<br>
+<br /><br />
 
 <div align="center">
-    <h1>《前端（Front-end）全套手册》</h1>
+    <h1>《前端全套手册》</h1>
     <br>
     <span><i><b>❤温馨提示~</b></i>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
       &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span><br><br>
     <span><li><i>为了方便起见，每个文档头部均设立了导航栏。</i></li></span>
     <span><li><i>指南仅供参考，代码片段亲自去尝试效果更佳。</i></li></span>
-    <br>
-    <img src="https://github.com/fmw666/my-image-file/blob/master/images/gif/down.gif" width="50">
-    <br>
+    <br><br><br>
+    <img src="https://github.com/fmw666/my-image-file/blob/master/images/gif/down.gif" width="40">
+    <br><br><br>
 </div>
 <br>
 
@@ -61,6 +61,30 @@
     <h2><i>语义化前端框架 Semantic-UI</i></h2>
     <li>Semantic-UI 是为主题设计的 UI 框架。</li>
     <li>Semantic-UI 允许开发人员快速构建漂亮的网站，简洁的 HTML，直观的 javascript 和简化的调试，有助于使前端开发成为一种愉快的体验。语义是响应性设计，允许您的网站在多个设备上扩展。</li>
+    .<br>
+    .<br>
+    .
+</div>
+
+<div align="center">
+    <h2><i>jQuery</i></h2>
+    <li>jQuery</li>
+    .<br>
+    .<br>
+    .
+</div>
+
+<div align="center">
+    <h2><i>BootStrap</i></h2>
+    <li>BootStrap</li>
+    .<br>
+    .<br>
+    .
+</div>
+
+<div align="center">
+    <h2><i>Animate+WOW</i></h2>
+    <li>Animate+WOW</li>
     .<br>
     .<br>
     .

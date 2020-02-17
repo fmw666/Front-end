@@ -38,7 +38,7 @@
 <div align="center">
     <h2><i>超文本标记语言 HTML</i></h2>
 	<div align="right">
-		<a href="HTML/README.md#head">Go ➡</a>
+		<a href="HTML/README.md#head"><b>Go ➡</b></a>
 	</div>
       <li>HTML 全称 HyperText Markup Language。</li>
       <li>超文本标记语言 HTML 是一种用于创建网页的标准标记语言。</li>
@@ -56,7 +56,7 @@
 <div align="center">
     <h2><i>层叠样式表 CSS</i></h2>
       <div align="right">
-		<a href="CSS/README.md#head">Go ➡</a>
+		<a href="CSS/README.md#head"><b>Go ➡</b></a>
 	</div>
 	  <li>CSS 全称 Cascading Style Sheets。</li>
       <li>CSS 不是编程语言。</li>
@@ -69,7 +69,7 @@
 <div align="center">
   <h2><i>网页脚本语言 JavaScrip</i></h2>
 	<div align="right">
-		<a href="JavaScript/README.md#head">Go ➡</a>
+		<a href="JavaScript/README.md#head"><b>Go ➡</b></a>
 	</div>
       <li></li>
     .<br>
@@ -78,25 +78,14 @@
 </div>
 
 <div align="center">
-    <h2><i>jQuery</i></h2>
-	<div align="right">
-		<a href="jQuery/README.md#head">Go ➡</a>
-	</div>
-    <li>jQuery 是一个快速、简洁的 JavaScript 框架</li>
-    <li>jQuery 设计的宗旨是 “write Less，Do More”，即倡导写更少的代码，做更多的事情。</li>
-    <li>jQuery 能优化 HTML 文档操作、事件处理、动画设计和 Ajax 交互。</li> 
-    .<br>
-    .<br>
-    .
-</div>
-
-<div align="center">
     <h2><i>语义化前端框架 Semantic-UI</i></h2>
     <div align="right">
-		<a href="Semantic-UI/README.md#head">Go ➡</a>
+		<a href="Semantic-UI/README.md#head"><b>Go ➡</b></a>
 	</div>
 	<li>Semantic-UI 是为主题设计的 UI 框架。</li>
     <li>Semantic-UI 允许开发人员快速构建漂亮的网站，简洁的 HTML，直观的 javascript 和简化的调试，有助于使前端开发成为一种愉快的体验。语义是响应性设计，允许您的网站在多个设备上扩展。</li>
+    <li>官网：<a href="https://semantic-ui.com/">https://semantic-ui.com/</a></li>
+    <li>中文站：<a href="https://zijieke.com/semantic-ui/">https://zijieke.com/semantic-ui/</a></li>
     .<br>
     .<br>
     .
@@ -105,9 +94,12 @@
 <div align="center">
     <h2><i>jQuery</i></h2>
 	<div align="right">
-		<a href="jQuery/README.md#head">Go ➡</a>
+		<a href="jQuery/README.md#head"><b>Go ➡</b></a>
 	</div>
-    <li>jQuery</li>
+    <li>jQuery 是一个快速、简洁的 JavaScript 框架</li>
+    <li>jQuery 设计的宗旨是 “write Less，Do More”，即倡导写更少的代码，做更多的事情。</li>
+    <li>jQuery 能优化 HTML 文档操作、事件处理、动画设计和 Ajax 交互。</li>
+    <li>官网：<a href="https://jquery.com/">https://jquery.com/</a></li> 
     .<br>
     .<br>
     .
@@ -116,7 +108,7 @@
 <div align="center">
     <h2><i>BootStrap</i></h2>
 	<div align="right">
-		<a href="Bootstrap/README.md#head">Go ➡</a>
+		<a href="Bootstrap/README.md#head"><b>Go ➡</b></a>
 	</div>
     <li>BootStrap</li>
     .<br>
@@ -127,9 +119,14 @@
 <div align="center">
     <h2><i>Animate+WOW</i></h2>
 	<div align="right">
-		<a href="Animate%2BWOW/README.md#head">Go ➡</a>
+		<a href="Animate%2BWOW/README.md#head"><b>Go ➡</b></a>
 	</div>
-    <li>Animate+WOW</li>
+    <li>Animate 中方法执行 CSS 属性集的自定义动画。</li>
+    <li>Animate 方法通过 CSS 样式将元素从一个状态改变为另一个状态。</li>
+    <li>CSS 属性值是逐渐改变的，这样就可以创建动画效果。</li>
+    <li>WOW.js 能让页面滚动时显示动画，使页面更有趣。</li>
+    <li>Animate.css 官网：<a href="https://daneden.github.io/animate.css/">https://daneden.github.io/animate.css/</a></li>
+    <li>WOW.js 官网：<a href="https://wowjs.uk/">https://wowjs.uk/</a></li>
     .<br>
     .<br>
     .
@@ -138,7 +135,7 @@
 <div align="center">
     <h2><i>Vue.js</i></h2>
 	<div align="right">
-		<a href="Vuejs/README.md#head">Go ➡</a>
+		<a href="Vuejs/README.md#head"><b>Go ➡</b></a>
 	</div>
     <li>Vue.js</li>
     .<br>
